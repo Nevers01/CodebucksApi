@@ -1,0 +1,6 @@
+@CodebucksService_HostAddress = http://localhost:5089
+
+GET {{CodebucksService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
